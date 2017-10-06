@@ -1,0 +1,17 @@
+﻿Resolution: Resolution | 800x600, 1024x768, 1152x864, 1280x720, 1280x768, 1280x800, 1280x1024, 1360x768, 1366x768, 1440x900, 1600x900, 1600x1200, 1680x1050, 1920x1080, 1920x1200, 2560x1440, 2560x1600, 3840x2160
+Borderless Window: Borderless Window | No, Yes
+Fullscreen: Fullscreen | No, Yes
+Exit: Exit |
+Back: Back |
+Apply: Apply |
+Settings: Settings |
+Character Creation: Character Creation |
+Character Name: Character Name |
+Create Character: Create Character |
+Map Editor: Map Editor |
+Editor Suite: Editor Suite |
+Object Editor: Object Editor |
+New Map: New Map |
+Map Name: Map Name |
+Create Map: Create Map |
+Play: Play |

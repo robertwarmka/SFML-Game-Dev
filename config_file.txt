@@ -1,0 +1,4 @@
+Borderless Window: 0
+Fullscreen: 0
+Language: 1
+Resolution: 1366x768
